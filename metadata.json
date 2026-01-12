@@ -1,0 +1,7 @@
+{
+  "name": "AhorroPro Perú",
+  "description": "Plataforma de ahorro colaborativo gamificado basada en el sistema de alcancía de casillas con billetes peruanos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
